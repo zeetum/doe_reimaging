@@ -1,0 +1,9 @@
+Copy autounattendEUFI.xml:
+D:\DeploymentShare\Control\WIN10DOE\Unattend.xml
+
+Copy:
+ManualDomainJoin.cmd
+ManualRename.cmd
+Drivers\
+To:
+Root USB directory
